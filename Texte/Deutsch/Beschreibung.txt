@@ -1,0 +1,1 @@
+Eine einfache Analoge Uhr für den Home-Screen. Wenn sie darauf tippen, sehen sie das Datum und die Uhrzeit.
